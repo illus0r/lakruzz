@@ -1,4 +1,4 @@
-name: Lakruzz - Personal blog
+name: Lakruzz - Personal blog of Lars Kruse
 highlighter: pygments
 exclude: [README.md]
 timezone: Europe/Copenhagen
