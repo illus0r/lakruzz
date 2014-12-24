@@ -5,4 +5,12 @@
 - name: CoDe:U Git Flow Cookbook
   description: A collection of recepies on how to do common stuff, working with the CoDe:U Git Flow
   dir: flow
+  
+- name: Blogs på dansk
+  description: Artikler, blogs, ideer osv skrevet på dansk.
+  dir: da
+  
+- name: Blogs in English
+  description: Articles, blogs, ideas etc written in English
+  dir: en  
 

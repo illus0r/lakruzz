@@ -2,7 +2,10 @@
 layout: post
 title:  Dewalokam
 author: Lars Kruse
+tags:   [Dewalocam, Kerala in India, Travel]
+published: false
 ---
+
 ## Paul the yogi
 
 ## To be or not to be - an entrepreneur

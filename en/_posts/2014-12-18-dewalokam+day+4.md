@@ -1,13 +1,16 @@
 ---
 layout: post
-title:  Dewalokam
+title:  Tea plantations - goddamit
+author: Lars Kruse
+tags:   [Dewalocam, Kerala in India, Travel]
+published: false
 ---
-## Tea plantations - goddamit
+
 The day we went to the nature walk with the two drivers and Richard and Patricia our driver incepted an idea in our heads by suggesting that we should go to Moonar to see the mountains and the tee plantations. It wasn't in our original itinerary but we all seemed keen on the idea. It turs out that it's a three hour ride to Moonar and none of us really feel comfortable with spending 6 hous of a day in a car in the Indian traffic.
 
-Cinta suggest that we could go to Vagamon instead it a different mountain closer by but not as high and not as well known. We had a family pow wow about this topic yesterday and we decided _not_ to go. We'll do it next time we're here.
+Sinta suggest that we could go to Vagamon instead it a different mountain closer by but not as high and not as well known. We had a family pow wow about this topic yesterday and we decided _not_ to go. We'll do it next time we're here.
 
-José approached us later and kind of insisted on us going there, it's a beautiful scenery, we will not regret it, in fact he wanted us to go so badly that he offered to pay for the driver to take us there. Of course we wouldn't acceppt that but on the other hand we were finally convinced by the way Cinta and José insisted that we should go. So this morning we're off to Vagamon. 
+José approached us later and kind of insisted on us going there, it's a beautiful scenery, we will not regret it, in fact he wanted us to go so badly that he offered to pay for the driver to take us there. Of course we wouldn't acceppt that but on the other hand we were finally convinced by the way Sinta and José insisted that we should go. So this morning we're off to Vagamon. 
 
 Our driver Siby turns out to be quite skilled, and this ride doesn't seem the slightest bit unsafe. He has prepared a huge basket of candy and fruit for us, well mostly for Niels, he eats about 3 quarters of it all by himself. The Mountains are like a plateau. Once we're up there the mountains turn into a high altitude hilly scenery with tea plantations. It truly is scenic.
 
@@ -16,14 +19,14 @@ Vagamon is a long stretched road with shops and houses along the side and behind
 ## An extra day - to relax
 Dewalokam was something that we'd all been looking forward to as a relaxation from our rushed everyday life back home, and now we're about to reach the end of our stay here. Tomorrow we'll be continuing on to the backwaters.
 
-As we left this morning Cinta approached Heidi and asked if we had looked at our booking, because she had us down for five nights, which would mean that we shouldn't leave before Saturday. She sais this when we were already seated in the minibus about to leave, so we didn't check it immediately. But by common effort we managed to reconstruct the itinerary by memory and came to the same conclusion that we had simply slipped a day - five nights separates six days and we simply got it wrong.
+As we left this morning Sinta approached Heidi and asked if we had looked at our booking, because she had us down for five nights, which would mean that we shouldn't leave before Saturday. She sais this when we were already seated in the minibus about to leave, so we didn't check it immediately. But by common effort we managed to reconstruct the itinerary by memory and came to the same conclusion that we had simply slipped a day - five nights separates six days and we simply got it wrong.
 
-It meant that we would actually still have a whole day tomorrow at Dewalokam were we would have absolutely noting on the program - except yoga. And a little later Heidi and Marie also managed to sneak in a full ayurvedic body massage that Cinta had arranged for some of the other guests, which she offered us to join.
+It meant that we would actually still have a whole day tomorrow at Dewalokam were we would have absolutely noting on the program - except yoga. And a little later Heidi and Marie also managed to sneak in a full ayurvedic body massage that Sinta had arranged for some of the other guests, which she offered us to join.
 
 ## The wedding photography
 In the hills we eat at a restaurant which Siby our driver knows, it's part of a turist resort. The dining room looks like something that could be taken our of an east German scenery from before the reunion; cracks in the walls, absolutely no decorations on the walls, tiles on the floor, spots from water damages in the ceiling, a very small TV at the end of the wall - 20 meters away - playing a Bollywood movie which appears to be a western/karate/comic combination.
 
-Cinta and José warned us that when we're eating out, especially in the mountains, we should only order vegetarian food. No fish and no meat. The food we order is actually delicious and the staff is very pleasant, so never mind the lack of decoration.
+Sinta and José warned us that when we're eating out, especially in the mountains, we should only order vegetarian food. No fish and no meat. The food we order is actually delicious and the staff is very pleasant, so never mind the lack of decoration.
 
 After the lunch Siby has arranged that we shall go and see a tea factory, but it's not open until 2 o'clock so he invites us to take a walk in the famous nearby pine woods. It's an area where a lot of people come and have their photographs takens, especially newly weds come here and shoot portraits and videos in the days after the wedding.
 

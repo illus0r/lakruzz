@@ -24,6 +24,11 @@
           {% endfor %}<br/>
           <strong> On:</strong>          
           {{page.date | date: "%A, %B %d. %Y"}}<br/>
+          <strong>Tags:&nbsp;|</strong>
+          {% for tag in page.tags %}
+            <a href="/tags.html#{{tag}}">{{tag}}</a>&nbsp;|&nbsp;
+          {% endfor %}
+        <br/>
         
           <h1>{{page.title}}</h1>
         

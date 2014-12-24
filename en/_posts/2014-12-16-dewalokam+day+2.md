@@ -1,7 +1,11 @@
 ---
 layout: post
-title:  Dewalokam
+title:  Interesting Danish accent
+author: Lars Kruse
+tags:   [Dewalocam, Kerala in India, Travel]
+published: false
 ---
+
 ## Yoga - animal farm
 Next morning starts with yoga. It's travel day for most of the guests so Marie and I are the only ones attending. Paul, our yogi, has driven to Dewalokam on his motorbike. He does that every morning to start a yoga class at 7:30. When we arrive at the yoga pavilion José is there, preparing the area by rolling out the mattresses.
 
@@ -14,7 +18,7 @@ Paul the yogi has arrived - and he takes us through half an hour of yoga exercis
 It feels like I've been run over by a bus - but still it feels good.
 
 ## Interesting Danish accent
-Cinta has arranged a school visit for some of the other guests who are retired teachers. We're invited too. I sounds interesting to see an Indian catholic public school so we're in. It happens immediately after breakfast, so we have to rush off at a quater past nine, the car with the teachers and Richard who also joined us on the morning walk are already there, sitting in the principals office when we arrive.
+Sinta has arranged a school visit for some of the other guests who are retired teachers. We're invited too. I sounds interesting to see an Indian catholic public school so we're in. It happens immediately after breakfast, so we have to rush off at a quater past nine, the car with the teachers and Richard who also joined us on the morning walk are already there, sitting in the principals office when we arrive.
 
 The principal is a catholic priest, he greets us all at his office and asks us all where we're from, he finds it very interesting that were Danish. "That is good and interesting, I like to train my students by having them listen to different accents". I should have gotten suspicious by that remark, but I didn't think anything of it at the time.
 
@@ -34,12 +38,12 @@ We leave the stage and stand back on the side of it. I'm standing there bald hea
 
 It turns out that all 600 children is leaving the hall passing os two by two, as they  walk pass us they are not just catching glimpses from the corner of their eyes anymore, they are all starring us right into our eyes smiling, some of them even cheering good morning and waving.
 
-After the school visit José and Cinta has arranged for us to go to a waterfall higher up the Kaliyar river. It's the two drivers from yesterdays ride that takes us there and follows us as guides on the trail about 2-3 kilometers up to the waterfall. It turns out that they are not at all dangerous when they aren't behind the wheels. They are perfect guides for the nature walk.
+After the school visit José and Sinta has arranged for us to go to a waterfall higher up the Kaliyar river. It's the two drivers from yesterdays ride that takes us there and follows us as guides on the trail about 2-3 kilometers up to the waterfall. It turns out that they are not at all dangerous when they aren't behind the wheels. They are perfect guides for the nature walk.
 
 ## Jungle pool and tribal folklore
 Back at Dewalokam after lunch it's time to just hang out. This is an organic farm, so there is obviously no chlorine in the swimming pool, just plain soft water. The pool lies in the garde in the shade of the Mahogany trees and overlooks the Kaliyar river. The river brink on the other side is a wilderness of tropical forest. I'm in the pool, but I feel like I'm in the middle of the Jungle.
 
-The pool is emptied, scrubbed down and refilled every seven to ten days. It's a lot of work, it takes Jose several hours during the night. The work that Cinta, Jose and their 20 person staff puts int his place is amazing.
+The pool is emptied, scrubbed down and refilled every seven to ten days. It's a lot of work, it takes Jose several hours during the night. The work that Sinta, Jose and their 20 person staff puts int his place is amazing.
 
 After dinner, chairs are begin set out in a half circle in the court yard. A group of dancers will present old tribal dances and folklore singing. They dance and sing for about half an hour. At this point I'm exhausted. My internal clock is not adjusted yet. I need to go to bed.
 

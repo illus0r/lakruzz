@@ -3,7 +3,9 @@ layout: front
 title: Browse by categories
 ---
 
-# Articles by Category
+# Blogs by Category
+
+_Most resent blogs on top_
 
 <categories>
 
@@ -14,7 +16,7 @@ title: Browse by categories
           <span title="{{catname.description}}">{{ catname.name}}<span>
           {% for posts in category %}
             {% for post in posts %}
-                <div class="list"><a title="{{ post.date | date: "%A %B %-d. %Y" }}" href="{{ post.url }}">{{ post.title }}</a></div>
+                <div class="list"><a title="{{ post.date | date: "%A %B %-d. %Y" }}" href="{{ post.url }}">{{ post.title }}</a> <span style="font-size:small;font-style:italic;">{{ post.date | date: "%A %B %-d. %Y" }}</span></div>
             {% endfor %}
           {% endfor %}
         </div>
