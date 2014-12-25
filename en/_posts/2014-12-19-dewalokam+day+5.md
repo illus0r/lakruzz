@@ -2,7 +2,7 @@
 layout: post
 title:  Dewalokam
 author: Lars Kruse
-tags:   [Dewalocam, Kerala in India, Travel]
+tags:   [Dewalokam, Kerala in India, Travel]
 published: false
 ---
 

@@ -2,8 +2,10 @@
 layout: post
 title:  Interesting Danish accent
 author: Lars Kruse
-tags:   [Dewalocam, Kerala in India, Travel]
+tags:   [Dewalokam, Kerala in India, Travel]
 ---
+
+NB: _start with the [blog from the previous day](/en/cochin-dewalokam.html), if you haven't read it already_
 
 ## Yoga - animal farm
 ![View from the yoga matress](/images/blog/DSCN0979.JPG){: .stdright} Paul the yogi, drives to Dewalokam on his motorbike. He does that every morning to start a yoga class at 7:30. When we arrive at the yoga pavilion Jose our host is there, preparing the area by rolling out the mattresses. In Dewalokam the morning starts with yoga. It's travel day for most of the guests who were here when we arrived, so Marie and I are the only ones attending. 
@@ -45,6 +47,8 @@ Back at Dewalokam after lunch it's time to just hang out. This is an organic far
 The pool is emptied, scrubbed down and refilled every seven to ten days. It's a lot of work, it takes Jose several hours during the night. The work that Sinta, Jose and their 20 person staff puts int his place is amazing.
 
 After dinner, chairs are begin set out in a half circle in the court yard. A group of dancers will present old tribal dances and folklore singing. They dance and sing for about half an hour. At this point I'm exhausted. My internal clock is not adjusted yet. I need to go to bed.
+
+NB: _Read on in [the blog from the following day](/en/dewalokam+day+3.html)_
 
  
 

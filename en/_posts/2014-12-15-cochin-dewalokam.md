@@ -94,6 +94,7 @@ Everything they serve for their guests originates from their own garden, spices,
 
 Before dinner drinks are served in front of the dining room, most guest that inhabit the Dewalokam homestay show up to mingle and Sinta and her husbond José and their children Paul and Tara join us as well.
 
+NB: _Read on in [the blog from the following day](/en/dewalokam+day+2.html)_
 
 
 
