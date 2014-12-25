@@ -9,7 +9,7 @@ NB: _start with the [blog from the previous day](/en/dewalokam+day+4.html), if y
 
 ## To be or not to be - an entrepreneur
 
-Jose, the host at [Dewalokam](http://www.dewalokam.com), where we've been staying for 4 days now tells that this place originally was came to live by a wrong. We're once a gain gathered for the pre-dinner drink session where all the guests summon. We're having a conversation on the subject of being and entrepreneur. He tries to give me the impression that this is not really who they are. Both he and his wife Sinta used be just teachers. And thats what they still are - deep down.
+Jose, the host at [Dewalokam](http://www.dewalokam.com), where we've been staying for 4 days now tells that this place originally was came to live by a wrong. We're once again gathered for the pre-dinner drink session where all the guests summon. We're having a conversation on the subject of being and entrepreneur. He tries to give me the impression that this is not really who they are. Both he and his wife Sinta used be just teachers. And thats what they still are - deep down.
 
 I have to correct him. Look around. The four days here has been like entering a small paradise for a short time.
 
@@ -51,4 +51,4 @@ Tomorrow morning we will be off to [Our Land](http://www.tripadvisor.in/Hotel_Re
 
 I'll end this post with a quote from Terminator - "I'll be back"
 
-![I'll be back](/images/blog/Illbeback.jpg){: width=100px}
+![I'll be back](/images/blog/Illbeback.jpg)
