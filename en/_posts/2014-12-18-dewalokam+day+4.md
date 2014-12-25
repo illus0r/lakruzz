@@ -75,6 +75,8 @@ Discussions goes on for hours after dinner and after that, card games.
 
 Kerala rules.
 
+NB: _Read on in [the blog from the following day](/en/dewalokam+day+5.html)_
+
 
 
 
