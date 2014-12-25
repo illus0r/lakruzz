@@ -68,3 +68,6 @@ Even when Kaliyar river during the monsoon two years ago raised to some 6-7 mete
 Sinta tells that the past two years has been OK. The staff is intact, more an more guests find their way here and most of the bank loans are paid out, mainly by selling off some property. Staying here for five days makes me wish at all my heart that they will be able to make this homestay a success. 
 
 It just seems right by any measure. 
+
+NB: _Read on in [the blog from the following day](/en/dewalokam+day+4.html)_
+
