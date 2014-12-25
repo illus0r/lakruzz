@@ -2,7 +2,7 @@
 layout: post
 title:  Very very welcome to Dewalokam
 author: Lars Kruse
-tags:   [Dewalocam, Kerala in India, Travel]
+tags:   [Dewalokam, Kerala in India, Travel]
 ---
 
 I wonder if they will ever kill that music? It's saxophone with a distinct Indian rhythm,  like early 80'ies funk meets Harekrisna. I'm on a plane that just left Doha in Qatar where we flew to from Copenhagen. We're headed to Cochin in India.
