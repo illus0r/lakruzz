@@ -2,8 +2,7 @@
 layout:    post
 title:     Jul i Cochin
 author:    Lars Kruse
-tags:      Kerala in India, Jul, Cochin
-published: false
+tags:      [Jul, Kerala in India, Cochin]
 ---
 
 ## I aften er det juleaften
@@ -14,7 +13,7 @@ Vi er i Cochin, en millionby i Kerala, Indiens sydligste stat. I går tog vi den
 
 Set fra en standard turists perspektiv, så er det den del af Cochin som hedder _Fort Cochin_ der er interessant. Vores hotel ligger på Vypin island, som er en ø der ligger umiddelbart nord for Fort Cochin. 
 
-Mellem Fort Cochin og Vypin er der to ramponerede færger som sejler i pendulefart frem og tilbage, selve overfarten tager bare 5 minutter. Færgen er konstureret, eller vel snarere _ikke-konstrueret_ på en sådan vis, at alle biler skal bakke ombord på færgen, når de er på plads komme alle motorcyklerne ombord og derefter fodgængerne. Ideen er tydeligvis bilerne skal først af, derefter skal motorcyklerne så køre ned agter på færgen og rundt om færgens førerhus og vende, for så at køre ud.
+![Vypen ferry service](/images/blog/DSC_0858.JPG){: .stdleft} Mellem Fort Cochin og Vypin er der to ramponerede færger som sejler i pendulefart frem og tilbage, selve overfarten tager bare 5 minutter. Færgen er konstureret, eller vel snarere _ikke-konstrueret_ på en sådan vis, at alle biler skal bakke ombord på færgen, når de er på plads komme alle motorcyklerne ombord og derefter fodgængerne. Ideen er tydeligvis bilerne skal først af, derefter skal motorcyklerne så køre ned agter på færgen og rundt om færgens førerhus og vende, for så at køre ud.
 
 Med det virker ikke.
 
@@ -22,7 +21,7 @@ Alle motorcyklisterne, synes at den tur ned på skibets agterende er så lang og
 
 Der er naturligvis også "kombardo" mænd på færgen, men de blander sig ikke i hvordan folk kommer af færgen - kun hvordan de kommer på.
 
-For at komme til Fort Cochin skal vi altså først køre tuk tuk ca 3 km til færgen og så over med den. En færgebillet koster 30 rupee, det vil sige vi kommer alle fem over for halvanden krone. Det er vist billigt, selv efter indisk standard.
+For at komme til Fort Cochin skal vi altså først køre tuk tuk ca 3 km til færgen og så over med den. En færgebillet koster 3 rupee, det vil sige vi kommer alle fem over for halvanden krone. Det er vist billigt, selv efter indisk målestok.
 
 Denne julemorgen - den 24 december - tager Niels, Marie og Ulrich alene afsted ud i byen og Heidi og jeg tager tilbage til det jødiske kvarter, et område som vores tuk tuk-fører fra i går kaldte for _magic market_. Hvis man køber et sølvsmykke, så bliver det, helt magisk, til messing efter noget tid og hvis man køber en grøn kjole, så vil den, helt magisk, skifte farve når den er blevet vasket.
 
@@ -30,7 +29,9 @@ Vi går på kunstudstillinger og finder også et snedkerværksted, som viser sig
 
 Det er ikke den rigtige juleaften i aften. 
 
-Hernede i Kerala er hovedparten af befolkningen kristne katolikker. Så julen starter i nat med midnatsgudstjenester og først i morgen aften holder de lokale fest. Men som danskere er det naturligvis i aften at jesusbarnets fødsel skal fejres. Vi har booket bord på _Fusion Bay_ som er den resturant på Tripadvison, der har scoret højst i Cochin. Selve resturanten ser ikke ud af noget særligt. Der en 5 vifter i loftet som kørere med overclocked hastighed. Dækkeservietterne af papir blafrer højlydt i stormen. På et tidspunkt spørger vi tjeneren om man kan skrue lidt ned, men sådan en vifte er ikke så sofistikeret. Enten er den tændt eller også er den slukket, og den her bliver ikke slukket - så tomme vandflasker og sodavandsdåser vælter rundt på bordet.
+Hernede i Kerala er hovedparten af befolkningen kristne katolikker. Så julen starter i nat med midnatsgudstjenester og først i morgen aften holder de lokale fest. Men som danskere er det naturligvis i aften at jesusbarnets fødsel skal fejres. 
+
+![Juleaften på Fusion Bay](/images/blog/DSCN1530.JPG){: .stdright}Vi har booket bord på _Fusion Bay_ som er den resturant på Tripadvison, der har scoret højst i Cochin. Selve resturanten ser ikke ud af noget særligt. Der en 5 vifter i loftet som kørere med overclocked hastighed. Dækkeservietterne af papir blafrer højlydt i stormen. På et tidspunkt spørger vi tjeneren om man kan skrue lidt ned, men sådan en vifte er ikke så sofistikeret. Enten er den tændt eller også er den slukket, og den her bliver ikke slukket - så tomme vandflasker og sodavandsdåser vælter rundt på bordet.
 
 Selv om vi er godt forvent fra de første fem dage i Dewalokam. Så lever maden fint op til vores forventninger, måske lige med undtagelse af en hovedret som  Marie og jeg deler, det var et lidt for tørt stykke marineret og grillet tun, men alt andet er virkelig fint.
 
@@ -61,7 +62,7 @@ En af hotellets ansatte fortæller os, at det først er klokken 7:30pm. "Jamen p
 
 Lidt besværligt måske, i hvert tilfælde indtil man lige har lært det.
 
-Det viser sig, at det nok ikke er en halv men snarere en hel times tid man skal regne som margin. Foruden de to englændere der sidder og stritter ligesom os selv, så kommer der ikke et øje før klokken er 3 minutter over otte. Ti minutter i otte blev selv personalet nok været lidt utålmodige så de skruede op for musikken, som for at sende det signal til gæsterne, som måtte forventes at sidde på deres hotelværelser og kigge ned på den fest, som de var inviteret til, men som ikke var startet endnu, at "nu må i gerne komme"
+![X-mas party](/images/blog/DSCN1540.JPG){: .stdleft}Det viser sig, at det nok ikke er en halv men snarere en hel times tid man skal regne som margin. Foruden de to englændere der sidder og stritter ligesom os selv, så kommer der ikke et øje før klokken er 3 minutter over otte. Ti minutter i otte blev selv personalet nok været lidt utålmodige så de skruede op for musikken, som for at sende det signal til gæsterne, som måtte forventes at sidde på deres hotelværelser og kigge ned på den fest, som de var inviteret til, men som ikke var startet endnu, at "nu må i gerne komme"
 
 De skruede vel at mærke - Helt op!
 
@@ -80,6 +81,10 @@ Bandet består af en keyboard spiller og en sanger. Ham på keyboard ligger ud m
 Entusiasmen og engagementet i bandet overskygger talentet.
 
 Det er en fantastisk oplevelse at holde jul på den her måde. Maden smager fint, det er klassikes indiske retter, til dessert er der en plum cake kagemand pyntet som julemanden. Det hele er overstået på en time, så begynder de første gæster at forlade området igen.
+
+KLIK på billedet nedenfor og se en lille videosnas fra vores julebal!
+
+[![Merry x-mas Cochin](/images/blog/merry_xmas_cochin.png){: .stdcenter}](http://youtu.be/gi860HaiSl0){: target="_blank"}
 
 Sådan holder man jul i Kerala. Det er langt fra Disneys Chip og Chap i sneen og det er lang fra Danmark.
 
