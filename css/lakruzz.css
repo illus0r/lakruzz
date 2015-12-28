@@ -1,4 +1,4 @@
-/* http://meyerweb.com/eric/tools/css/reset/ 
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -11,8 +11,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -25,7 +25,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -51,7 +51,7 @@ table {
 /* LAYOUT STYLES */
 body {
   font-size: 15px;
-  line-height: 1.5; 
+  line-height: 1.5;
   background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   font-weight: 400;
@@ -60,7 +60,7 @@ body {
 
 a {
   color: #00adef;
-  
+
   -moz-transition: color 0.5s ease;
   -moz-transition: text-shadow 0.5s ease;
   -o-transition: color 0.5s ease;
@@ -77,7 +77,7 @@ a:hover {
 header {
   padding-top: 40px;
   padding-bottom: 40px;
-  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif; 
+  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif;
   background: #2e7bcf url(../images/josra.00adef.png) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
 }
@@ -170,7 +170,7 @@ a.button {
   color: #fff;
   padding-left: 68px;
   padding-top: 22px;
-  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif; 
+  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif;
 }
 a.button small {
   display: block;
@@ -245,94 +245,103 @@ th {
 
 td {
   border: 1px solid #ebebeb;
-  text-align: center; 
+  text-align: center;
   font-weight: 300;
 }
 
 form {
   background: #f2f2f2;
   padding: 20px;
-  
+
 }
 
 
 /* GENERAL ELEMENT TYPE STYLES */
 
 #main-content h1 {
-  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif; 
+  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 2.8em;
   letter-spacing: -1px;
   color: #474747;
-} 
+}
 
 #main-content h2 {
-  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif; 
+  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 22px;
   font-weight: bold;
   margin-bottom: 8px;
   color: #474747;
-} 
+}
 
 
 #main-content h3 {
-  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif; 
+  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 18px;
   font-weight: bold;
   margin-top: 24px;
   margin-bottom: 8px;
   color: #474747;
-} 
- 
+}
+
 
 #main-content h4 {
-  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif; 
+  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 15px;
   font-weight: bold;
   color: #474747;
-} 
+}
 
 #main-content h5 {
-  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif; 
+  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 14px;
   color: #474747;
-} 
+}
 
 
 
 #main-content h6 {
-  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif; 
+  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: .8em;
   color: #474747;
-} 
+}
 
 p {
   margin-bottom: 20px;
 }
- 
+
 a {
   text-decoration: none;
 }
 
-.stdright, .stdleft, .stdcenter {
+.stdright, .stdleft, .stdcenter, .pic-standard {
    width:450px;
    padding-top:    5px;
    padding-left:   5px;
    padding-right:  5px;
    padding-bottom: 5px;
    font-size: 83%;
-   
 }
 
-.stdright {
-   float:right; 
+.pic-small {
+   width:250px;
+   padding-top:    5px;
+   padding-left:   5px;
+   padding-right:  5px;
+   padding-bottom: 5px;
+   font-size: 83%;
 }
 
-.stdleft {
-   float:left; 
+
+.stdright, .pic-right {
+   float:right;
+}
+
+.stdleft, .pic-left {
+   float:left;
    margin-right: 10px;
 }
 
-.stdcenter {
+.stdcenter, .pic-center {
    display: block;
    margin-left:  auto;
    margin-right: auto;
@@ -391,6 +400,18 @@ footer a:hover {
   height: 0;
 }
 
+.wolf-item{
+	display: block;
+}
+
+.wolf-item:before{
+	content: '';
+  background: transparent url(/wolfware/images/paw.png) 0 0 no-repeat;
+	content: '';
+  background-size: 70%;
+  background-position: center;
+  padding-left: 17px;
+}
 .clearfix {display: inline-block;}
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
@@ -466,9 +487,9 @@ footer a:hover {
     background-color: #fff;
     color: #2879d0;
     -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;                     
-    border-radius: 5px;  
-    visibility: hidden;  
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    visibility: hidden;
   }
   header a.button small {
     font-size: 13px;
@@ -481,10 +502,10 @@ footer a:hover {
     margin-top: 15px;
     padding: 5px 0px;
     line-height: 1;
-    float:none;   
+    float:none;
   }
   header .menu {
-    
+
   }
   #main-content,
   aside#sidebar {
@@ -505,7 +526,7 @@ footer a:hover {
   .stdleft,
   .stdcenter {
    width:200px;
-   float:none; 
+   float:none;
 }
   #main-content h1:before,
   #main-content h2:before,
@@ -518,6 +539,8 @@ footer a:hover {
     margin-left: 0;
   }
 }
+
+
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 @media only screen and (min-width: 480px) and (max-width: 767px) {}

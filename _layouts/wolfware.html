@@ -5,17 +5,21 @@
 
   <body>
 
-    {% include banner.html %}
+    {%include banner.html%}
 
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
 
+          <h1>{{page.title}}</h1>
+
           {{ content }}
 
-        </section>
 
-        {%include twitter-sidebar.html%}
+        </section>
+          <aside id="sidebar">
+            {%include wolfware-sidebar.html%}
+          </aside>
 
       </div>
     </div>
