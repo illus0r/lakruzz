@@ -6,6 +6,7 @@ author: Lars Kruse
 ---
 
 You have probably already read the story of [The Bonnie Situation](/wolfware/intro/bonnie). Now you must lean back and be guided into an interpretation of the story which will eventually enable us to define the term [WolfWare](/wolfware/concept/revelation/).
+{: .cuff}
 
 The interpretation is viewed from the perspective of the consultant, and as you'll see later, Mr. Wolf represents the consultant in the Bonnie Situation  - but let's get on with it.
 

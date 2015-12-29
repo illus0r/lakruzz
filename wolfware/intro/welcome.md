@@ -13,7 +13,7 @@ You'll be introduced to Mr. Wolf (or just 'Winston' for those who are on first n
 
 When you've been introduced to The Bonnie Situation and Mr. Wolf, then you'll be [guided into the understanding](/wolfware/intro/interpretation) of the concept of [WolfWare](/wolfware/concept/revelation).
 
-At WolfWare we have introduced a forum [__no longer online__] which we hope can be to some assistance when it comes to gathering all the lone wolves into a pack of wolves.
+At WolfWare we have introduced a forum [[_no longer online_](/en/wolfware-republished)] which we hope can be to some assistance when it comes to gathering all the lone wolves into a pack of wolves.
 
 Maybe you have an inner problem solving Wolf yourself? If so then you should seriously consider joining the WolfWare Forum and contribute to the general "Problem Solving" with whatever you've got.
 
@@ -22,4 +22,4 @@ Once again: Welcome!
 Now hurry on to read the story of ["The Bonnie Situation"](/wolfware/intro/bonnie).
 
 ###NOTE
->The reference on this page to the WolfWare Forum is no longer valid, but We do have a pack of Mr. Wolves and you're [invited to join](http://www.praqma.com/jobs){: target="praqma-jobs"}. 
+>The reference on this page to the WolfWare Forum is no longer valid, but We do have a pack of Mr. Wolves and you're [invited to join](http://www.praqma.com/jobs){: target="praqma-jobs"}.

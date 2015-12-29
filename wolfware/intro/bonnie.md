@@ -6,7 +6,8 @@ author: Lars Kruse
 ---
 
 ## A bloddy yet edifying tale about consultancy
-__The story you are about to read is a retelling of one of the many parallel stories, that are told in Quentin Tarantino's movie Pulp Fiction.__
+The story you are about to read is a retelling of one of the many parallel stories, that are told in Quentin Tarantino's movie Pulp Fiction.
+{: .cuff}
 
 Jules Winnfield and Vincent Vega are sitting in front of a car. On the back seat is the young boy Marvin. This has been the worst day in Marvin's life, which by the way is about to come to an end real soon.
 

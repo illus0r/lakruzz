@@ -1,8 +1,13 @@
 ---
 layout: wolfware
-title: WolfWare
+title:  WolfWare - 2016 Republish Preface
+author: Lars Kruse
+tags:   [WolfWare]
 ---
-The concept of WolfWare is one I came up with back in 2005 or 2006. At that time I was working as a self-employed consultant, and I had more work requests than I could handle myself. I felt that it was time to organize and consolidate into a company and WolfWare was my first shot at it. It was meant to be a collaboration of really skilled people. So good that people would take pleasure in seeing them work.
+WolfWare and the bloody but, yet edifying, tale about The Bonnie Situation and why Mr. Wolf surely must be a role model for every consultant is now republished after 7 years off line.
+{: .cuff}
+
+The concept of WolfWare is one I came up with back in 2005. At that time I was working as a self-employed consultant, and I had more work requests than I could handle myself. I felt that it was time to organize and consolidate into a company and WolfWare was my first shot at it. It was meant to be a collaboration of really skilled people. So good that people would take pleasure in seeing them work.
 
 Part of the WolfWare concept was a retelling of the bloody but edifying tale of _The Bonnie Situation_, one of the side-stories in Tarantino's movie _Pulp Fiction_, and an interpretation of the story that reveals why Mr. Wolf is a role model for al consultants.
 

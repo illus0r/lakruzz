@@ -5,9 +5,10 @@ layout: wolfware
 author: Lars Kruse
 ---
 
-__Is there a Wolf in you? Do you want to help solving problems? Do you feel like being generous? Become one of the pack!__
+Is there a Wolf in you? Do you want to help solving problems? Do you feel like being generous? Become one of the pack!
+{: .cuff}
 
-Besides telling bloody stories and using twisted metaphors extended to a meaning you would not have thought impossible. The WolfWare site is also hosting a forum [_well - no longer!_], where people who understand the concept of WolfWare (consumers, customer, consultants ...the lot!) are welcome to join and help each others.
+Besides telling bloody stories and using twisted metaphors extended to a meaning you would not have thought impossible. The WolfWare site is also hosting a forum [[_well - no longer!_](/en/wolfware-republished)], where people who understand the concept of WolfWare (consumers, customer, consultants ...the lot!) are welcome to join and help each others.
 
 The vision about the forum is that it will become a natural place for some people to reveal their Bonnie Situations and for others to be generous and help solving them. Who knows? The next day you'll be the one with the Bonnie Situation and another one will be generous to you!
 
