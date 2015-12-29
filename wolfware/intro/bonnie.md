@@ -68,4 +68,4 @@ Along with all this work going on Mr. Wolf manages to ease Jimmi into a sentimen
     Vincent:    Yeah! I agree: Thank you very much Mr. Wolf!
     Mr. Wolf:   Call me Winston.
 
-The was "The Bonnie Situation" - Now you should hurry on to [the interpretation](/wolfware/intro/interpretation/).
+The was "The Bonnie Situation" - Now you should hurry on to [the interpretation](/wolfware/intro/interpretation).
