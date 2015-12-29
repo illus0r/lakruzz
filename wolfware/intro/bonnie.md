@@ -12,7 +12,7 @@ Jules Winnfield and Vincent Vega are sitting in front of a car. On the back seat
 
 ![Big Kahuna Burger](/wolfware/images/jules-bkb.jpg){: .pic-small .pic-left}Just before this car ride, Jules and Vincent went to an apartment somewhere in Los Angeles, where four young boys were having their breakfast (Big Kahuna Burgers). The purpose of their visit was to collect a suitcase full of money, which the boys unfortunately forgot to deliver to their business partner Mr. Marcellus Wallace - who also happens to be Vincent and Jules boss - hence the visit.
 
-Now they have successfully collected Marsellus' suitcase and they have also wiped out three of the four young boys - the fourth boy was Marvin who was in on the job as an insider.
+Now they have successfully collected Marcellus' suitcase and they have also wiped out three of the four young boys - the fourth boy was Marvin who was in on the job as an insider.
 
 The last one of the three boys that Vincent and Jules shot in the apartment actually managed to empty his gun agains the two - but all six bullets missed. Jules claims it was a miracle. Vincent calls it a coincidence - now they are having a deranged conversation on the subject of divine intervention.
 

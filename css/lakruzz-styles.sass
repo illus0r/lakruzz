@@ -1,0 +1,102 @@
+---
+  # The (empty) YAML front matter is required
+  # in order to have Jekyll process it.
+---
+
+/*
+ This stylesheet is build from SASS
+ You're not supposed to alter anything
+ in this file - since it will be
+ overwritten at each build.
+
+ Go to the source: /css/marie.sass
+
+ */
+
+//variables
+
+// fonts
+$font-stack-header:     'Oswald', 'Helvetica Neue', Helvetica, Arial, serif
+$font-stack-body:       'Noto Serif', serif
+$font-stack-sans-serif: 'Helvetica Neue', Helvetica, Arial, sans-serif
+$font-stack-monospace:  Monaco, 'Bitstream Vera Sans Mono', 'Lucida Console', Terminal, monospace
+
+// Colors
+$primary-color:             #333
+$light-color:               #eee
+$dark-color:                #474747
+$anchor-color:              #00adef
+$anchor-color:              #c4581c
+$anchor-hover-color:        #8d594e
+$anchor-hover-shadow-color: #41130a
+$praqma-color:              #fe950d
+$block-code-color:          #800b0e
+$code-border-color:         #dbe7f3
+
+// Sizes
+$font-size-body:       16px
+$font-size-header:     20px
+
+//Mixins
+@import "mixins"
+@import "helpers"
+@import "reset"
+@import "main-content"
+@import "header"
+@import "aside"
+@import "code"
+@import "picture"
+
+//styles
+body
+  font: $font-size-body $font-stack-body
+  color: $primary-color
+  -webkit-font-smoothing: antialiased
+  text-rendering: optimizeLegibility
+  height: auto
+
+p
+  font-size: $font-size-body
+  line-height: normal
+  margin-bottom: 5px
+
+a
+  color: $anchor-color
+  +transition(color 0.5s ease)
+  +transition(text-shadow 0.5s ease)
+
+a:hover
+  color: $anchor-hover-color
+  text-shadow: $anchor-hover-shadow-color 0px 0px 2px
+
+h1, h2, h3
+  +header
+
+h1
+  font-size: $font-size-header*2.2
+
+h2
+  font-size: $font-size-header*1.5
+
+h3
+  font-size: $font-size-header
+
+header
+  padding-top: 40px
+  padding-bottom: 40px
+  font-family: $font-stack-sans-serif
+  background: url(/images/banner1.jpg) left bottom/cover no-repeat
+
+  h1, h2
+    text-align: center
+  h1
+    color: $light-color
+    margin-bottom: 0.2em
+  h2
+    color: $praqma-color
+    font-weight: normal
+
+banner
+  h1
+    margin: 0 0 30px
+    @include text-shadow(0, 1px, 1px, #333)

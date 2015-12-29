@@ -26,4 +26,4 @@ In less than 12 months we have grown from 8 to 21 people, we have grown out of o
 
 I'm happy and proud to say that in reality WolfWare manifested itself in the sum of all that we've done: [Praqma](http://www.praqma.com){: target="praqma"}, the [CoDe conferences](http://www.code-conf.com){: target="code"}, [Josra](http://www.josra.org){: target="josra"}.
 
-Taody we call the Wolves CoDe'ers (Continuous Delivereres) but it's basically the samen thing, and we're still [hiring](http://www.praqma.com/jobs){: target="praqma"} and we're still expanding into new countries and even new businesses.
+Today we call the Wolves CoDe'ers (Continuous Delivereres) but it's basically the same thing, and we're still [hiring](http://www.praqma.com/jobs){: target="praqma"} and we're still expanding into new countries and even new businesses.

@@ -2,33 +2,9 @@
    v2.0 | 20110126
    License: none (public domain)
 */
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed,
-figure, figcaption, footer, header, hgroup,
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font-family: inherit;
-    font-variant: inherit;
-    line-height: inherit;
-	vertical-align: baseline;
-}
+
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
-	display: block;
-}
+
 body {
 	line-height: 1;
 }
@@ -58,69 +34,7 @@ body {
   color: #666;
 }
 
-a {
-  color: #00adef;
 
-  -moz-transition: color 0.5s ease;
-  -moz-transition: text-shadow 0.5s ease;
-  -o-transition: color 0.5s ease;
-  -o-transition: text-shadow 0.5s ease;
-  -ms-transition: color 0.5s ease;
-  -ms-transition: text-shadow 0.5s ease;
-}
-
-a:hover {
-  color: #0069ba;
-  text-shadow: #0090ff 0px 0px 2px;
-}
-
-header {
-  padding-top: 40px;
-  padding-bottom: 40px;
-  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif;
-  background: #2e7bcf url(../images/josra.00adef.png) 0 0 repeat-x;
-  border-bottom: solid 1px #275da1;
-}
-
-header h1 {
-  letter-spacing: -1px;
-  font-size: 47px;
-  color: #fff;
-  line-height: 1;
-  margin-bottom: 0.2em;
-  width: 540px;
-}
-
-header h2 {
-  font-size: 30px;
-  color: #fe950d;
-  font-weight: normal;
-  line-height: 1.3;
-  width: 540px;
-  letter-spacing: 0;
-}
-
-header .menu {
-  float: left;
-  margin-left: 5px;
-  margin-top: 5px;
-  padding-top: 0px;
-  width: 87px;
-  color: #fff;
-  height: 21px;
-  background-color: #fe950d;
-  text-align: center;
-  border-radius: 10px;
-  font-size: 14px;
-}
-
-header a.menu {
-  color: #fff;
-}
-
-header a.menu:hover {
-  color: #fff;
-}
 
 
 .inner {
@@ -153,14 +67,6 @@ aside#sidebar {
   line-height: 1.3;
 }
 
-aside#sidebar p.repo-owner,
-aside#sidebar p.repo-owner a {
-  font-weight: bold;
-}
-
-#downloads {
-  margin-bottom: 40px;
-}
 
 a.button {
   width: 134px;
@@ -191,32 +97,7 @@ aside a.button {
   font-size: 21px;
 }
 
-code, pre {
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #222;
-  margin-bottom: 30px;
-  font-size: 13px;
-}
 
-code {
-  background-color: #f2f8fc;
-  border: solid 1px #dbe7f3;
-  padding: 0 3px;
-}
-
-pre {
-  padding: 20px;
-  background: #fff;
-  text-shadow: none;
-  overflow: auto;
-  border: solid 1px #f2f2f2;
-}
-pre code {
-  color: #2879d0;
-  background-color: #fff;
-  border: none;
-  padding: 0;
-}
 
 ul, ol, dl {
   margin-bottom: 20px;
@@ -258,52 +139,6 @@ form {
 
 /* GENERAL ELEMENT TYPE STYLES */
 
-#main-content h1 {
-  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 2.8em;
-  letter-spacing: -1px;
-  color: #474747;
-}
-
-#main-content h2 {
-  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 22px;
-  font-weight: bold;
-  margin-bottom: 8px;
-  color: #474747;
-}
-
-
-#main-content h3 {
-  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 18px;
-  font-weight: bold;
-  margin-top: 24px;
-  margin-bottom: 8px;
-  color: #474747;
-}
-
-
-#main-content h4 {
-  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 15px;
-  font-weight: bold;
-  color: #474747;
-}
-
-#main-content h5 {
-  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 14px;
-  color: #474747;
-}
-
-
-
-#main-content h6 {
-  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: .8em;
-  color: #474747;
-}
 
 p {
   margin-bottom: 20px;
@@ -313,41 +148,6 @@ a {
   text-decoration: none;
 }
 
-.stdright, .stdleft, .stdcenter, .pic-standard {
-   width:450px;
-   padding-top:    5px;
-   padding-left:   5px;
-   padding-right:  5px;
-   padding-bottom: 5px;
-   font-size: 83%;
-}
-
-.pic-small {
-   width:250px;
-   padding-top:    5px;
-   padding-left:   5px;
-   padding-right:  5px;
-   padding-bottom: 5px;
-   font-size: 83%;
-}
-
-
-.stdright, .pic-right {
-   float:right;
-}
-
-.stdleft, .pic-left {
-   float:left;
-   margin-right: 10px;
-}
-
-.stdcenter, .pic-center {
-   display: block;
-   margin-left:  auto;
-   margin-right: auto;
-   margin-bottom: 20px;
-   margin-top: 0px;
-}
 
 p a {
   font-weight: 400;
@@ -439,21 +239,12 @@ footer a:hover {
   #main-content {
     width: 490px;
   }
-  #main-content h1:before,
-  #main-content h2:before,
-  #main-content h3:before,
-  #main-content h4:before,
-  #main-content h5:before,
-  #main-content h6:before {
-    content: none;
-    padding-right: 0;
-    margin-left: 0;
-  }
+
    .stdright,
    .stdleft,
    .stdcenter {
-   width:200px;
-}
+     width:200px;
+   }
 }
 
 /* All Mobile Sizes (devices and browser) */
@@ -507,37 +298,18 @@ footer a:hover {
   header .menu {
 
   }
-  #main-content,
-  aside#sidebar {
+  #main-content{
     float: none;
     width: 100% ! important;
   }
-  aside#sidebar {
-    background-image: none;
-    margin-top: 20px;
-    border-top: solid 1px #ddd;
-    padding: 20px 0;
-    min-height: 0;
-  }
-  aside#sidebar a.button {
-    display: none;
-  }
+
   .stdright,
   .stdleft,
   .stdcenter {
-   width:200px;
-   float:none;
-}
-  #main-content h1:before,
-  #main-content h2:before,
-  #main-content h3:before,
-  #main-content h4:before,
-  #main-content h5:before,
-  #main-content h6:before {
-    content: none;
-    padding-right: 0;
-    margin-left: 0;
+     width:200px;
+     float:none;
   }
+
 }
 
 
